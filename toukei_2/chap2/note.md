@@ -21,12 +21,14 @@ $$
 P(H_i | A) = \frac{P(H_i)P(A|H_i)}{P(A)}
 $$
 
-右辺の分母 $P(A)$ は複数の原因によって起こる事象 $A$ の総合的な生起確率を表す. この値を知ることはできないが, 各原因の出現確率 $P(H_i)$ と原因ごとに事象 $A$ の起こる条件付き確率 $P(A|H_i)$ が過去のデータから推定できるとき, $P(A)=P(A\land \Omega)$ であり, $\Omega = H_1 \lor H_2, \ldots , \lor H_n$かつ$H_i\land H_j = \emptyset, i \neq j$ を利用して, 以下のように変形できる.
+右辺の分母 $P(A)$ は複数の原因によって起こる事象 $A$ の総合的な生起確率を表す. この値を知ることはできないが, 各原因の出現確率 $P(H_i)$ と原因ごとに事象 $A$ の起こる条件付き確率 $P(A|H_i)$ が過去のデータから推定できるとき, $P(A)=P(A\land \Omega)$ であり, $\Omega = H_1 \lor H_2, \ldots , \lor H_n$かつ $H_i\land H_j = \emptyset, i \neq j$ を利用して, 以下のように変形できる.
 
 $$
+\begin{align*}
 P(A) = P(A\land H_1) + P(A\land H_2) + \ldots + P(A\land H_n) \\
 = P(H_1)P(A|H_1) + P(H_2)P(A|H_2) + \ldots + P(H_n)P(A|H_n) \\
 = \sum_{j=1}^n P(H_j)P(A|H_j)
+\end{align*}
 $$
 
 ここからベイズの定理(Bayes' theorem)が得られる.
@@ -45,16 +47,18 @@ $P(H_i)$ は事前確率(prior probability), $P(H_i | A)$ は事後確率(poster
 
 $$
 0 \leq f(x_i) \leq 1 \\
+$$
+
+$$
 \sum_{i=1}^\infty f(x_i) = 1
 $$
 
 $X$ の取りうる値が有限個である場合も同様に考えることができる.
 
 連続確率変数の場合, 任意の個別の点での確率は0であり, 代わりに確率は値の範囲に関して定義される. 任意の$x$および微小な$\Delta x$に対して, $X$ が 区間 $[x, x + \Delta x]$ に含まれる確率は
+
 $$
-
 P(x \leq X \leq x + \Delta x) \simeq f(x) \Delta x
-
 $$
 
 $X$ が区間 $[a,b]$ に含まれる確率が
@@ -64,6 +68,7 @@ P(a \leq X \leq b) = \int_a^b f(x) dx
 $$
 
 の形の積分で表されるような関数 $f(x)\geq 0$ を考える. この関数は $X$ の確率密度関数(probability density function)と呼ばれ, 確率の公理より以下の性質を満たす.
+
 $$
 \int_{-\infty}^\infty f(x) dx = 1
 $$
