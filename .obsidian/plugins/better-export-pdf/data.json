@@ -1,0 +1,29 @@
+{
+  "showTitle": true,
+  "maxLevel": "6",
+  "displayHeader": false,
+  "displayFooter": true,
+  "headerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;font-family:Times, 'BIZ UDPMincho', sans-serif; color:#A9A9A9\">\n    <span class=\"title\"></span>\n</div>\n",
+  "footerTemplate": "<div style=\"width: 100vw;font-size:10px;text-align:center;font-family:Times, sans-serif;\">\n    <span class=\"pageNumber\"></span>\n</div>\n",
+  "printBackground": false,
+  "generateTaggedPDF": false,
+  "displayMetadata": false,
+  "debug": false,
+  "isTimestamp": false,
+  "enabledCss": false,
+  "prevConfig": {
+    "pageSize": "A4",
+    "marginType": "3",
+    "showTitle": true,
+    "open": true,
+    "scale": 90,
+    "landscape": false,
+    "marginTop": "15",
+    "marginBottom": "10",
+    "marginLeft": "10",
+    "marginRight": "10",
+    "displayHeader": true,
+    "displayFooter": true,
+    "cssSnippet": "0"
+  }
+}

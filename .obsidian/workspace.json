@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "f05c8ef246ea6360",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ef788a339400689",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1701af12fd395ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/Reinforcement_Learning/Ape-X.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ad58a3207dd3aa0",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43a370d6f6d6d150",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab3db658017aabe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa14aa298bb33078",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75df60ebaa1258c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dff8ddb1c464620f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cfd0c19df81e759",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4397bb0f0a1e7e04",
+    "type": "split",
+    "children": [
+      {
+        "id": "9118aedb33403e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692007c8aa292ebf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI/Reinforcement_Learning/Ape-X.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70236eac56c24260",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI/Reinforcement_Learning/Ape-X.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8436dfeab677d033",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "204eb927858ca5d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI/Reinforcement_Learning/Ape-X.md"
+              }
+            }
+          },
+          {
+            "id": "212547695841ef86",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-memos:Thino": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1701af12fd395ace",
+  "lastOpenFiles": [
+    "AI/Reinforcement_Learning/Ape-X.pdf",
+    "AI/Reinforcement_Learning/DQN.md",
+    "AI/Reinforcement_Learning/Q-learning.md",
+    "AI/Reinforcement_Learning/強化学習とは.md",
+    "AI/Reinforcement_Learning/Ape-X.md",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204711.png",
+    "README.md",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png",
+    "AI/Reinforcement_Learning/assets",
+    "Pasted image 20240824201435.png",
+    "Pasted image 20240824201225.png",
+    "Pasted image 20240824200835.png",
+    "English",
+    "AI/huggingface",
+    "AI/Reinforcement_Learning",
+    "cs",
+    "ML/無題のフォルダ",
+    "AI",
+    "mathematics",
+    "mathematics/statistics",
+    "toukei_2/kakomon/2017_11.md",
+    "g_kentei/README.md",
+    "toukei_2/chap2/note.md"
+  ]
+}
