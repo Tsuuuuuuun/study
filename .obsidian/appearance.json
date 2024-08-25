@@ -1,5 +1,6 @@
 {
   "cssTheme": "Blue Topaz",
   "textFontFamily": "Times New Roman,BIZ UDP明朝",
-  "interfaceFontFamily": "Inter,BIZ UDPゴシック"
+  "interfaceFontFamily": "Inter,BIZ UDPゴシック",
+  "monospaceFontFamily": "Courier New"
 }

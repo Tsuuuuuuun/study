@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "TRANSFORMER MODELS",
+      "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Ape-X",
       "path": "AI/Reinforcement_Learning/Ape-X.md"
+    },
+    {
+      "basename": "TRANSFORMER MODELS",
+      "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf"
     },
     {
       "basename": "DQN",
@@ -11,10 +23,6 @@
     {
       "basename": "Q-learning",
       "path": "AI/Reinforcement_Learning/Q-learning.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Pasted image 20240824204420",
@@ -191,10 +199,6 @@
     {
       "basename": "バイオメディカルデータサイエンス特論",
       "path": "_勉強/バイオメディカルデータサイエンス特論.md"
-    },
-    {
-      "basename": "Uni-DTI 20240113",
-      "path": "研究/UniDTI/Uni-DTI 20240113.md"
     }
   ],
   "omittedPaths": [],

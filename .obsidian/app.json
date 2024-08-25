@@ -1,4 +1,7 @@
 {
   "newFileLocation": "root",
-  "attachmentFolderPath": "./assets"
+  "attachmentFolderPath": "./assets",
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "spellcheck": false
 }
