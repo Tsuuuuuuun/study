@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1次元ガウス分布の学習と予測",
+      "path": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
+    },
+    {
       "basename": "TRANSFORMER MODELS",
       "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "optuna",
       "path": "_勉強/勉強会資料/optuna.md"
-    },
-    {
-      "basename": "バイオメディカルデータサイエンス特論",
-      "path": "_勉強/バイオメディカルデータサイエンス特論.md"
     }
   ],
   "omittedPaths": [],

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
+                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
+                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
+                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
+                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
               }
             }
           },
@@ -180,6 +180,10 @@
   },
   "active": "59c5d92a94a2b977",
   "lastOpenFiles": [
+    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.pdf",
+    "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
+    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+    "mathematics/statistics/Baye's",
     "AI/huggingface/NLP Course/assets/Pasted image 20240825025443.png",
     "AI/huggingface/NLP Course/assets/Pasted image 20240825025028.png",
     "AI/huggingface/NLP Course/assets/Pasted image 20240825024917.png",
@@ -189,7 +193,6 @@
     "AI/huggingface/NLP Course/assets",
     "README.md",
     "AI/Reinforcement_Learning/Ape-X.md",
-    "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
     "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf",
     "AI/huggingface/NLP Course",
     "AI/Reinforcement_Learning/Ape-X.pdf",
@@ -200,13 +203,11 @@
     "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png",
-    "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png",
     "AI/Reinforcement_Learning/assets",
     "English",
     "AI/huggingface",
     "AI/Reinforcement_Learning",
     "cs",
-    "ML/無題のフォルダ",
     "toukei_2/kakomon/2017_11.md",
     "g_kentei/README.md",
     "toukei_2/chap2/note.md"
