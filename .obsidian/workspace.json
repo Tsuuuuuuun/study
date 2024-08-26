@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4397bb0f0a1e7e04",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md"
+                "file": "AI/Reinforcement_Learning/強化学習の探検.md"
               }
             }
           },
@@ -175,14 +174,15 @@
       "float-search:Search Obsidian In Modal": false,
       "obsidian-memos:Thino": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "publish:パブリッシュによる変更の公開": false
+      "publish:パブリッシュによる変更の公開": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "aa14aa298bb33078",
+  "active": "59c5d92a94a2b977",
   "lastOpenFiles": [
+    "AI/Reinforcement_Learning/強化学習の探検.pdf",
     "AI/Reinforcement_Learning/Ape-X.md",
-    "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
+    "AI/Reinforcement_Learning/強化学習の探検.md",
     "AI/Reinforcement_Learning/Q-learning.md",
     "AI/Reinforcement_Learning/DQN.md",
     "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",

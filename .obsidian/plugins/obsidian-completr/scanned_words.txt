@@ -1821,6 +1821,7 @@ Djlw
 DvVui
 DEUG
 DQuBJ
+Decision
 Planner
 PNG
 PP
@@ -3604,6 +3605,8 @@ PNAq
 Pgm
 Pin
 PBm
+Process
+Policy
 notion
 nY
 nG
@@ -8738,6 +8741,8 @@ Imn
 IvI
 Index
 IZw
+Iteration
+Improvement
 XSw
 XY
 XO
@@ -23818,6 +23823,7 @@ tkT
 tEj
 tuned
 tune
+trajectory
 LP
 LDDDD
 Ll
@@ -27236,6 +27242,8 @@ eXy
 eQs
 eTzd
 eMB
+environment
+episode
 hii
 hFu
 hK
@@ -51368,6 +51376,8 @@ Mda
 MKA
 MEKG
 MybMY
+Markov
+MDP
 gww
 gZ
 gs
@@ -54853,6 +54863,7 @@ sQY
 ssH
 swJud
 shot
+step
 vMmoo
 vdddLAU
 vO
@@ -75524,6 +75535,7 @@ SIFK
 SRl
 Scd
 Syd
+Step
 GM
 Gx
 GqLSS
@@ -77172,6 +77184,8 @@ GfpO
 GOr
 GaX
 GHx
+GPI
+Generalized
 VKFF
 VKnn
 Vw

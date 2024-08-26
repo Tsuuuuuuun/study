@@ -4,5 +4,12 @@
   "strictLineBreaks": false,
   "rightToLeft": false,
   "spellcheck": false,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  }
 }
