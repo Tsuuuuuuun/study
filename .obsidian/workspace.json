@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4397bb0f0a1e7e04",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
+                "file": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md"
               }
             }
           },
@@ -178,11 +179,21 @@
       "publish:パブリッシュによる変更の公開": false
     }
   },
-  "active": "59c5d92a94a2b977",
+  "active": "aa14aa298bb33078",
   "lastOpenFiles": [
+    "AI/Reinforcement_Learning/Ape-X.md",
+    "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md",
+    "AI/Reinforcement_Learning/Q-learning.md",
+    "AI/Reinforcement_Learning/DQN.md",
+    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+    "English/単語帳/README.md",
+    "English/単語帳/attend.md",
+    "English/単語帳",
+    "English/文法",
+    "English/無題のファイル.md",
+    "English/和英・英会話",
     "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.pdf",
     "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
-    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
     "mathematics/statistics/Baye's",
     "AI/huggingface/NLP Course/assets/Pasted image 20240825025443.png",
     "AI/huggingface/NLP Course/assets/Pasted image 20240825025028.png",
@@ -192,22 +203,15 @@
     "AI/huggingface/NLP Course/assets/Pasted image 20240825023450.png",
     "AI/huggingface/NLP Course/assets",
     "README.md",
-    "AI/Reinforcement_Learning/Ape-X.md",
     "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf",
     "AI/huggingface/NLP Course",
     "AI/Reinforcement_Learning/Ape-X.pdf",
-    "AI/Reinforcement_Learning/DQN.md",
-    "AI/Reinforcement_Learning/Q-learning.md",
     "AI/Reinforcement_Learning/強化学習とは.md",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824204711.png",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png",
     "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png",
     "AI/Reinforcement_Learning/assets",
-    "English",
-    "AI/huggingface",
-    "AI/Reinforcement_Learning",
-    "cs",
     "toukei_2/kakomon/2017_11.md",
     "g_kentei/README.md",
     "toukei_2/chap2/note.md"

@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./assets",
   "strictLineBreaks": false,
   "rightToLeft": false,
-  "spellcheck": false
+  "spellcheck": false,
+  "showLineNumber": true
 }

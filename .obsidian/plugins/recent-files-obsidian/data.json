@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "強化学習の探検(Prod. by Aicia-Solid)",
+      "path": "AI/Reinforcement_Learning/強化学習の探検(Prod. by Aicia-Solid).md"
+    },
+    {
+      "basename": "Ape-X",
+      "path": "AI/Reinforcement_Learning/Ape-X.md"
+    },
+    {
+      "basename": "Q-learning",
+      "path": "AI/Reinforcement_Learning/Q-learning.md"
+    },
+    {
+      "basename": "DQN",
+      "path": "AI/Reinforcement_Learning/DQN.md"
+    },
+    {
       "basename": "1次元ガウス分布の学習と予測",
       "path": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
     },
@@ -13,20 +29,8 @@
       "path": "README.md"
     },
     {
-      "basename": "Ape-X",
-      "path": "AI/Reinforcement_Learning/Ape-X.md"
-    },
-    {
       "basename": "TRANSFORMER MODELS",
       "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf"
-    },
-    {
-      "basename": "DQN",
-      "path": "AI/Reinforcement_Learning/DQN.md"
-    },
-    {
-      "basename": "Q-learning",
-      "path": "AI/Reinforcement_Learning/Q-learning.md"
     },
     {
       "basename": "Pasted image 20240824204420",
@@ -191,14 +195,6 @@
     {
       "basename": "大学院教育コース",
       "path": "_勉強/大学院教育コース.md"
-    },
-    {
-      "basename": "知能医工学",
-      "path": "_勉強/知能医工学.md"
-    },
-    {
-      "basename": "optuna",
-      "path": "_勉強/勉強会資料/optuna.md"
     }
   ],
   "omittedPaths": [],
