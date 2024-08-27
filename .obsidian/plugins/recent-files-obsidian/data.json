@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "強化学習の探検",
-      "path": "AI/Reinforcement_Learning/強化学習の探検.md"
+      "basename": "時を表す前置詞",
+      "path": "English/単語帳/前置詞/時を表す前置詞.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Pasted image 20240824204313",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png"
+    },
+    {
+      "basename": "Pasted image 20240824201633",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png"
+    },
+    {
+      "basename": "Pasted image 20240824201625",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png"
+    },
+    {
+      "basename": "Ape-X",
+      "path": "AI/Reinforcement_Learning/Ape-X.pdf"
     },
     {
       "basename": "Ape-X",
@@ -17,6 +37,30 @@
       "path": "AI/Reinforcement_Learning/DQN.md"
     },
     {
+      "basename": "概論",
+      "path": "English/単語帳/前置詞/概論.md"
+    },
+    {
+      "basename": "in",
+      "path": "English/単語帳/前置詞/in.md"
+    },
+    {
+      "basename": "at",
+      "path": "English/単語帳/前置詞/at.md"
+    },
+    {
+      "basename": "on",
+      "path": "English/単語帳/前置詞/on.md"
+    },
+    {
+      "basename": "README",
+      "path": "English/README.md"
+    },
+    {
+      "basename": "強化学習の探検",
+      "path": "AI/Reinforcement_Learning/強化学習の探検.md"
+    },
+    {
       "basename": "1次元ガウス分布の学習と予測",
       "path": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
     },
@@ -25,28 +69,12 @@
       "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "TRANSFORMER MODELS",
       "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf"
     },
     {
       "basename": "Pasted image 20240824204420",
       "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png"
-    },
-    {
-      "basename": "Pasted image 20240824204313",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png"
-    },
-    {
-      "basename": "Pasted image 20240824201625",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png"
-    },
-    {
-      "basename": "Pasted image 20240824201633",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png"
     },
     {
       "basename": "数式置き場",
@@ -171,30 +199,6 @@
     {
       "basename": "Pasted image 20230508160311",
       "path": "file/Pasted image 20230508160311.png"
-    },
-    {
-      "basename": "Pasted image 20230427030749",
-      "path": "file/Pasted image 20230427030749.png"
-    },
-    {
-      "basename": "Molecular Informatics - 2020 - Chen - Cheminformatics in Natural Product‐based Drug Discovery",
-      "path": "file/Molecular Informatics - 2020 - Chen - Cheminformatics in Natural Product‐based Drug Discovery.pdf"
-    },
-    {
-      "basename": "1次元ガウス分布の学習と予測",
-      "path": "_勉強/bayes/1次元ガウス分布の学習と予測.md"
-    },
-    {
-      "basename": "データ科学概観",
-      "path": "_勉強/データ科学概観.md"
-    },
-    {
-      "basename": "機械学習(kojima)",
-      "path": "_勉強/機械学習(kojima).md"
-    },
-    {
-      "basename": "大学院教育コース",
-      "path": "_勉強/大学院教育コース.md"
     }
   ],
   "omittedPaths": [],
