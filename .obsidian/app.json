@@ -11,5 +11,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 90
-  }
+  },
+  "showRibbon": true,
+  "promptDelete": false
 }

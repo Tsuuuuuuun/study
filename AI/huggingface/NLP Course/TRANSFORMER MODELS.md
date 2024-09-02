@@ -57,7 +57,7 @@ classifier(
 
 パイプラインにテキストを渡す場合は、主に3つの手順が必要である。
 1. テキストは、モデルが理解できる形式に前処理される。
-2. 前処理されたにゅうりょくがモデルに渡される。
+2. 前処理された入力がモデルに渡される。
 3. モデルの予測は後処理されるので、それらを理解できる。
 
 >[!example] 使用可能なパイプラインの一部
@@ -259,8 +259,7 @@ translator("Ce cours est produit par Hugging Face.")
 ## How do Transformers work?
 ### A bit of Transformer history
 Transformer のアーキテクチャは 2017年6月に導入された。当初の研究の焦点は翻訳タスクにある。これに続いて、次のようないくつかの影響力のあるモデルが導入された。
-
-![[assets/Pasted image 20240825023450.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/transformers_chrono.svg)
 
 - June 2018
 	- GPT は様々な NLP の fine-tune に使用され、最先端の結果を得た最初の事前学習済み Transfomrer モデルである。
@@ -284,20 +283,19 @@ Transformer のアーキテクチャは 2017年6月に導入された。当初�
 上記の全ての Transformer モデル(GPT, BERT, BART, T5 など) は *言語モデル* として学習されている。これは、これらのモデルが自己教師ありの方法で大量の生のテキストで訓練されていることを意味する。自己教師あり学習は、モデルの入力から目標が自動的に計算される手法である。つまり、データにラベルをつけるのに人間は必要ない。
 このタイプのモデルは、トレーニングされた言語の統計的理解を発展させるが、特定の実用的なタスクにはあまり役立たない。そのため、一般的な事前学習済みモデルは、*転移学習* とよばれるプロセスを経る。このプロセスでは、モデルは特定のタスクに対して教師ありの方法で(つまり、人間が注釈付けしたラベルを使用して)fine-tune される。
 タスクの例としては、 $n$ 個前の単語を読んだ文の次の単語を予測する事がある。これが *causal language modeling* と呼ばれるのは、出力が過去と現在の入力に依存し、将来の入力には依存しないためである。
-
-![[assets/Pasted image 20240825024618.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/causal_modeling.svg)
 
 もう一つの例は、モデルが文中のマスクされた単語を予測する *masked language modeling* である。
 
-![[assets/Pasted image 20240825024751.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/masked_modeling.svg)
 
 ### Transformers are big models
 DistilBERT のようないくつかの例外を除けば、性能を向上させるための一般的な戦略は、モデルのサイズと事前学習の対象となるデータ量を増やすことである。
 
-![[assets/Pasted image 20240825024917.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/model_parameters.png)
 残念ながら、モデル(特に大規模なモデル)の訓練には大量のデータが必要である。これは、時間と計算資源の点で非常にコストがかかる。それは環境への影響とも言いかえられる。
 
-![[assets/Pasted image 20240825025028.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/carbon_footprint.svg)
 
 研究チーム、学生団体、企業がモデルを訓練するたびに、ゼロから訓練を行うと、莫大で不必要なグローバルコストになる。
 これが言語モデルの共有が最も重要である理由だ。学習済みの重みを共有し、既に訓練済みの重みに基づいて構築することで、コミュニティの全体的な計算コストと二酸化炭素排出力が削減される。
@@ -305,7 +303,7 @@ DistilBERT のようないくつかの例外を除けば、性能を向上させ
 ### Transfer Learning
 *事前学習* とは、モデルをゼロから学習する行為である。重みはランダムに初期化され、事前の知識がなくても学習が開始される。
 
-![[assets/Pasted image 20240825025443.png]]
+![](https://huggingface.co/datasets/huggingface-course/documentation-images/resolve/main/en/chapter1/pretraining.svg)
 
 この事前学習は、通常、日以上に大量のデータに対して行われる。そのため、非常に大規模なデータコーパスが必要であり、訓練には数週間かかる場合がある。
 一方、*fine-tuning* は、モデルが事前学習された**後に**行われる訓練である。fine-tuning を実行するには、まず事前学習済みの言語モデルを取得し、次にタスクに固有のデータセットを使用して追加の学習を実行する。

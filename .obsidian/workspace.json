@@ -4,19 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "4fecd0cbde0d6abd",
+        "id": "97b9c4d63fb731ed",
         "type": "tabs",
         "children": [
           {
-            "id": "03ab5bbf765a693c",
+            "id": "96de3cd4e6b39e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/単語帳/前置詞/時を表す前置詞.md",
+                "file": "AI/Reinforcement_Learning/内発的報酬.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "6f8e2a214ae1a2bf",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {}
             }
           }
         ]
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/単語帳/前置詞/時を表す前置詞.md",
+                "file": "AI/Reinforcement_Learning/内発的報酬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/単語帳/前置詞/時を表す前置詞.md",
+                "file": "AI/Reinforcement_Learning/内発的報酬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/単語帳/前置詞/時を表す前置詞.md"
+                "file": "AI/Reinforcement_Learning/内発的報酬.md"
               }
             }
           },
@@ -178,20 +186,37 @@
       "obsidian-memos:Thino": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "publish:パブリッシュによる変更の公開": false,
-      "periodic-notes:Open today": false,
-      "random-note:ランダムノートを開く": false
+      "random-note:ランダムノートを開く": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "03ab5bbf765a693c",
+  "active": "96de3cd4e6b39e52",
   "lastOpenFiles": [
-    "README.md",
-    "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png",
-    "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png",
-    "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png",
-    "AI/Reinforcement_Learning/Ape-X.pdf",
-    "AI/Reinforcement_Learning/Ape-X.md",
+    "AI/Reinforcement_Learning/pdf/内発的報酬.pdf",
+    "AI/Reinforcement_Learning/強化学習の探検.md",
     "AI/Reinforcement_Learning/Q-learning.md",
     "AI/Reinforcement_Learning/DQN.md",
+    "AI/Reinforcement_Learning/Ape-X.md",
+    "AI/Reinforcement_Learning/Agent57.md",
+    "AI/Reinforcement_Learning/内発的報酬.md",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204711.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240902000343.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png",
+    "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png",
+    "README.md",
+    "mathematics/statistics/Baye's/pdf",
+    "AI/huggingface/NLP Course/pdf",
+    "AI/Reinforcement_Learning/pdf",
+    "AI/Reinforcement_Learning/pdf/Ape-X.pdf",
+    "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825023450.png",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825025443.png",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825025028.png",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825024917.png",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825024751.png",
+    "AI/huggingface/NLP Course/assets/Pasted image 20240825024618.png",
+    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+    "AI/huggingface/NLP Course/pdf/TRANSFORMER MODELS.pdf",
     "English/単語帳/前置詞/時を表す前置詞.md",
     "English/単語帳/前置詞/概論.md",
     "English/単語帳/前置詞/in.md",
@@ -202,26 +227,12 @@
     "English/単語帳/前置詞",
     "English/単語帳/語源.md",
     "English/単語帳/README.md",
-    "AI/Reinforcement_Learning/強化学習の探検.md",
-    "AI/Reinforcement_Learning/強化学習の探検.pdf",
-    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md",
+    "AI/Reinforcement_Learning/pdf/強化学習の探検.pdf",
     "English/単語帳/attend.md",
     "English/単語帳",
     "English/文法",
     "English/和英・英会話",
-    "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.pdf",
-    "AI/huggingface/NLP Course/TRANSFORMER MODELS.md",
-    "mathematics/statistics/Baye's",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825025443.png",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825025028.png",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825024917.png",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825024751.png",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825024618.png",
-    "AI/huggingface/NLP Course/assets/Pasted image 20240825023450.png",
-    "AI/huggingface/NLP Course/assets",
-    "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf",
     "AI/Reinforcement_Learning/強化学習とは.md",
-    "AI/Reinforcement_Learning/assets/Pasted image 20240824204711.png",
     "toukei_2/kakomon/2017_11.md",
     "g_kentei/README.md",
     "toukei_2/chap2/note.md"

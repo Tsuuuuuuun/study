@@ -50,7 +50,9 @@ Prioritized Experience Replay を用いた DQN では、新しい遷移(経験)�
 
 ## experiments
 ### Atari
-![[Pasted image 20240824201625.png]]
+
+![](https://ar5iv.labs.arxiv.org/html/1803.00933/assets/x2.png)
 
 
-![[Pasted image 20240824201633.png]]
+![](https://ar5iv.labs.arxiv.org/html/1803.00933/assets/x3.png)
+

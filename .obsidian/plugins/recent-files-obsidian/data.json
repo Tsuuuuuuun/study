@@ -1,32 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "時を表す前置詞",
-      "path": "English/単語帳/前置詞/時を表す前置詞.md"
+      "basename": "内発的報酬",
+      "path": "AI/Reinforcement_Learning/内発的報酬.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Pasted image 20240824204313",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png"
-    },
-    {
-      "basename": "Pasted image 20240824201633",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201633.png"
-    },
-    {
-      "basename": "Pasted image 20240824201625",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824201625.png"
-    },
-    {
-      "basename": "Ape-X",
-      "path": "AI/Reinforcement_Learning/Ape-X.pdf"
-    },
-    {
-      "basename": "Ape-X",
-      "path": "AI/Reinforcement_Learning/Ape-X.md"
+      "basename": "強化学習の探検",
+      "path": "AI/Reinforcement_Learning/強化学習の探検.md"
     },
     {
       "basename": "Q-learning",
@@ -35,6 +15,50 @@
     {
       "basename": "DQN",
       "path": "AI/Reinforcement_Learning/DQN.md"
+    },
+    {
+      "basename": "Ape-X",
+      "path": "AI/Reinforcement_Learning/Ape-X.md"
+    },
+    {
+      "basename": "Agent57",
+      "path": "AI/Reinforcement_Learning/Agent57.md"
+    },
+    {
+      "basename": "Pasted image 20240824204711",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204711.png"
+    },
+    {
+      "basename": "Pasted image 20240824204420",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png"
+    },
+    {
+      "basename": "Pasted image 20240824204313",
+      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204313.png"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Ape-X",
+      "path": "AI/Reinforcement_Learning/pdf/Ape-X.pdf"
+    },
+    {
+      "basename": "TRANSFORMER MODELS",
+      "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
+    },
+    {
+      "basename": "1次元ガウス分布の学習と予測",
+      "path": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
+    },
+    {
+      "basename": "TRANSFORMER MODELS",
+      "path": "AI/huggingface/NLP Course/pdf/TRANSFORMER MODELS.pdf"
+    },
+    {
+      "basename": "時を表す前置詞",
+      "path": "English/単語帳/前置詞/時を表す前置詞.md"
     },
     {
       "basename": "概論",
@@ -55,26 +79,6 @@
     {
       "basename": "README",
       "path": "English/README.md"
-    },
-    {
-      "basename": "強化学習の探検",
-      "path": "AI/Reinforcement_Learning/強化学習の探検.md"
-    },
-    {
-      "basename": "1次元ガウス分布の学習と予測",
-      "path": "mathematics/statistics/Baye's/1次元ガウス分布の学習と予測.md"
-    },
-    {
-      "basename": "TRANSFORMER MODELS",
-      "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.md"
-    },
-    {
-      "basename": "TRANSFORMER MODELS",
-      "path": "AI/huggingface/NLP Course/TRANSFORMER MODELS.pdf"
-    },
-    {
-      "basename": "Pasted image 20240824204420",
-      "path": "AI/Reinforcement_Learning/assets/Pasted image 20240824204420.png"
     },
     {
       "basename": "数式置き場",
@@ -167,38 +171,6 @@
     {
       "basename": "2024-08-24",
       "path": "memo/2024-08-24.md"
-    },
-    {
-      "basename": "5月聴き大会",
-      "path": "音楽/5月聴き大会.md"
-    },
-    {
-      "basename": "omics 解析について",
-      "path": "研究/生命データサイエンス/omics 解析について.md"
-    },
-    {
-      "basename": "20240109",
-      "path": "研究/セミナー/20240109.md"
-    },
-    {
-      "basename": "obsedianの感想的なもの",
-      "path": "obsedian/obsedianの感想的なもの.md"
-    },
-    {
-      "basename": "markdown(obsedian)のlatex",
-      "path": "obsedian/markdown(obsedian)のlatex.md"
-    },
-    {
-      "basename": "notionについて",
-      "path": "obsedian/notionについて.md"
-    },
-    {
-      "basename": "Pasted image 20230509172103",
-      "path": "file/Pasted image 20230509172103.png"
-    },
-    {
-      "basename": "Pasted image 20230508160311",
-      "path": "file/Pasted image 20230508160311.png"
     }
   ],
   "omittedPaths": [],
